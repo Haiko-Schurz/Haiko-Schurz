@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Haiko-Schurz
 - 👀 I’m interested in Biostatistics, genetics and Machine learning
-- 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to collaborate on Validating AI models and incorporating genetics into AI
 - 📫 How to reach me haikoschurz@gmail.com
 
